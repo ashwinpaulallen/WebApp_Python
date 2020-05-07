@@ -1,0 +1,7 @@
+Flask
+Flask-Session
+flask-sqlalchemy
+psycopg2-binary
+SQLAlchemy
+
+
